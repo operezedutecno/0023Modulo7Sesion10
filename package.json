@@ -1,0 +1,25 @@
+{
+  "name": "0023modulo7sesion10",
+  "version": "1.0.0",
+  "description": "Practica de relaciones con sequalize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/operezedutecno/0023Modulo7Sesion10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/operezedutecno/0023Modulo7Sesion10/issues"
+  },
+  "homepage": "https://github.com/operezedutecno/0023Modulo7Sesion10#readme",
+  "dependencies": {
+    "pg": "^8.11.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.32.1"
+  }
+}
